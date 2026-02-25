@@ -1,0 +1,304 @@
+Aşağıdaki metin, **tek parça “final makale taslağı (v1.0)”**: metin içi **(Yazar, Yıl)** atıflar var; en sonda **APA 7 kaynakça** var; ayrıca **Şekil 1–2** için doğrudan kullanılabilir kod ve başlık/caption ekledim. (Not: Link vermiyorum; ilgili kaynaklar, metin sonlarındaki tıklanabilir alıntılarla erişilebilir.)
+
+---
+
+# Yüksek Faiz Rejiminde Kredi–Kâr–Varlık–Kira Döngüsü
+
+## Türkiye’de Fiyatlama Gücü, Finansman Maliyeti ve Yaşam Maliyeti Üzerine Post-Keynesyen Politik İktisat Çerçevesi
+
+## Özet
+
+Bu çalışma, Türkiye’de enflasyon ve özellikle büyük şehirlerde yaşam maliyeti (kira başta olmak üzere) baskısını açıklamak için **iki aşamalı, sınıfsal ve döngüsel** bir mekanizma önerir. Birinci aşamada banka kredisiyle finanse edilen üretim/ticarette, fiyatlama gücü yüksek firmalar talep bulunduğu sürece fiyatı **(üretim maliyeti + finansman maliyeti) + hedef kâr marjı** kuralıyla belirleyebilir; böylece yüksek faiz rejiminde dahi finansman maliyetini fiyatlara taşıyıp hedef kârlılığı koruyabilir (Hall & Hitch, 1939; Ravenna & Walsh, 2006). İkinci aşamada realize edilen kâr/servet enflasyondan korunma motivasyonuyla konut/arsa ve reel getiri arayışına konu finansal araçlara yöneldikçe **varlık enflasyonu** güçlenir; varlık enflasyonu büyük şehirlerde **kira kanalı** üzerinden yaşam maliyetine taşar. Çalışma, TCMB’nin 17 Şubat 2026 itibarıyla yayımlamaya başladığı **Yeni Kiracı Kira Endeksi (YKKE)** sayesinde “piyasa kirası / yeni kiracı” dinamiğini daha güncel izleyerek aktarımın zamanlamasını test etmeyi hedefler. ([Merkezin Güncesi][1])
+
+**Anahtar kelimeler:** endojen para, kredi tahsisi, mark-up fiyatlama, cost channel, kira enflasyonu, konut finansallaşması, bölüşüm
+**JEL:** E31, E44, D33, R31
+
+---
+
+## 1. Giriş: Ana tez ve özgün katkı
+
+Türkiye’de enflasyonun toplumsal maliyeti, özellikle büyük şehirlerde “ortalama TÜFE”den çok **kira ve zaruri tüketim** üzerinden hissedilmektedir. Hanehalkı bütçelerinde konut-kira, ulaştırma ve gıda gibi kalemlerin yüksek paylara sahip olması; düşük gelir gruplarında bu payların daha da artması, enflasyonun **regresif** bir refah kaybı ürettiğini gösterir. ([İstanbul Ticaret Borsası][2])
+
+Bu makale, bu tabloyu “rastlantısal bir piyasa sonucu” değil, **kapitalist finansman ve fiyatlama rejiminin** yeniden ürettiği **sistemsel bir döngü** olarak kavramsallaştırır. Ana tez şudur:
+
+1. **Krediyle genişleyen finansman** (endojen para mantığı) belirli ölçüde **tahsis** (allocation) sorunudur: krediye erişim, ölçek/teminat/kurumsal kapasite üzerinden farklılaşır (McLeay vd., 2014; Stiglitz & Weiss, 1981). ([bankofengland.co.uk][3])
+2. Fiyatlama gücü yüksek firmalar talep bulunduğu sürece fiyatı **(maliyet + finansman maliyeti) + hedef kâr marjı** ile koyabilir; bu nedenle yüksek faiz rejiminde bile faiz artışı bazı piyasalarda **yalnız talebi bastıran** değil, aynı zamanda **maliyet kanalından fiyatlamayı besleyen** bir unsur olabilir (Hall & Hitch, 1939; Ravenna & Walsh, 2006). ([OUP Academic][4])
+3. Korunan/reelize edilen kâr, enflasyondan korunma motivasyonuyla varlıklara (konut/arsa ve finansal araçlar) park edildikçe **varlık enflasyonu** güçlenir (Aalbers, 2016). ([Taylor & Francis][5])
+4. Varlık enflasyonu, büyük şehirlerde özellikle **kira kanalı** üzerinden yaşam maliyetine taşar; YKKE bu aktarımı “yeni kiracı” dinamiğiyle daha güncel yakalamayı amaçlar (TCMB, 2026a). ([Merkezin Güncesi][1])
+5. Bedel, harcanabilir geliri zaruri kalemlere sıkışmış orta-alt sınıfa biner; döngü her turda servet yoğunlaşmasını güçlendirecek biçimde yeniden üretilir.
+
+Özgün katkı iki noktada yoğunlaşır:
+(i) **Yüksek faiz rejiminde bile** (i_t yüksekken) “finansman maliyeti → fiyat” kanalını, mark-up fiyatlama içinde **maliyet bileşeni** olarak kurup test edilebilir hale getirmek;
+(ii) Aşama 2’de “varlık → kira” aktarımını, Türkiye’de ilk kez sistematik biçimde izlenebilir kılan **YKKE** ile zamanlama/öncülük testi yapmak. ([Merkezin Güncesi][1])
+
+---
+
+## 2. Literatür ve kuramsal arka plan
+
+### 2.1 Endojen para ve kredi yaratımı
+
+McLeay, Radia ve Thomas (2014) modern ekonomide paranın önemli bölümünün bankaların kredi verirken mevduat yaratmasıyla oluştuğunu vurgular. Bu çerçeve, kredi genişlemesini “önceden birikmiş tasarrufların yeniden dağıtımı” olarak gören anlatıya karşı kurumsal bir temel sunar. ([bankofengland.co.uk][6])
+
+### 2.2 Kredi tahsisi ve güç: “kim kredi alır?”
+
+Stiglitz ve Weiss (1981), eksik bilgi altında kredi piyasalarının fiyatla temizlenmeyebileceğini ve **kredi tayınlaması** (rationing) olabileceğini gösterir. Bu, kredinin kimlere ve hangi koşullarda gittiğinin (dolayısıyla kredi rejiminin) politik-iktisadi sonuçlar üretmesi için teorik bir zemin sağlar. ([JSTOR][7])
+
+### 2.3 Full-cost / mark-up fiyatlama ve piyasa gücü
+
+Hall ve Hitch (1939) saha görüşmelerine dayalı olarak firmaların fiyatı sıklıkla “tam maliyet + marj” kuralıyla belirlediğini gösteren klasik çalışmadır. Bu yaklaşım, fiyatlama gücü olan firmaların maliyet şoklarını (girdi, kur, finansman) fiyata taşıyabilme kapasitesini analizin merkezine alır. ([OUP Academic][4])
+
+### 2.4 Cost channel: faiz yalnız talebi değil maliyeti de etkileyebilir
+
+Ravenna ve Walsh (2006), firmaların işletme sermayesi için borçlanma ihtiyacı olduğunda nominal faiz oranının marjinal maliyete doğrudan girebileceğini ve bunun Phillips eğrisi/optimal politika sonuçlarını değiştirdiğini gösterir. Bu literatür, “yüksek faiz → enflasyon mutlaka düşer” önermesinin kısa vadede otomatik olmamasını teorik olarak anlamlandırır. ([people.ucsc.edu][8])
+
+### 2.5 Konutun finansallaşması ve varlık enflasyonu
+
+Aalbers (2016), konutun barınma malı olmanın ötesinde teminat/portföy varlığına dönüşmesinin fiyat, kira ve eşitsizlik dinamiklerini dönüştürdüğünü tartışır. Bu çalışma, bizim Aşama 2 mekanizmamızın (kârın park edilmesi → varlık enflasyonu → kira) politik-iktisadi çerçevesini sağlar. ([Taylor & Francis][5])
+
+### 2.6 Kalecki: tercihsel/politik boyut
+
+Kalecki (1943), kapitalist ekonomide tam istihdam ve talep yönetimi gibi politikaların “salt teknik” değil, sınıf gücü ve disiplin mekanizmalarıyla ilişkili olduğunu vurgular. Bizim çerçevemizde kredi tahsisi, fiyatlama gücü ve varlık parkı, “tercihsel/politik” bir rejim olarak okunur. ([Pluto][9])
+
+---
+
+## 3. Mekanizma: iki aşamalı enflasyon döngüsü
+
+### 3.1 Aşama 1: Finansman maliyeti + hedef kâr marjı ile fiyatlama
+
+Fiyatlama gücü ve zaruri talep koşullarında firma düzeyinde basit kural:
+
+[
+p_t = (1+\mu_t),\big(c_t + \phi, i_t \big)
+]
+
+* (c_t): birim üretim maliyeti (emek, girdi, kur geçişi vb.)
+* (i_t): finansman maliyeti / faiz (işletme sermayesi, kısa vadeli finansman)
+* (\phi): finansman maliyetinin birim maliyete aktarım katsayısı
+* (\mu_t): mark-up (piyasa gücü/yoğunlaşma/talep esnekliği ile ilişkili)
+
+Hall & Hitch (1939) “full-cost” fiyatlamayı; Ravenna & Walsh (2006) ise faiz oranının maliyete doğrudan girdiği “cost channel”ı teorik olarak temellendirir. ([OUP Academic][4])
+
+**Özgün iddia:** Zaruri tüketim + piyasa gücü koşullarında, yüksek faiz rejiminde bile (i_t) artışı “kârı eritmek” yerine (p_t)’ye taşınabilir; bu, sıkı para politikasının kısa vadede bazı kalemlerde dezenflasyon yerine maliyet-itkili fiyatlama yaratabilmesi ihtimalidir.
+
+### 3.2 Aşama 2: Kârın park edilmesi ve varlık enflasyonu
+
+Aşama 1’de korunup realize edilen kârın bir kısmı “değer saklama/reel getiri” motivasyonuyla varlıklara yönelir:
+
+[
+A_{t} = A_{t-1} + \theta, \Pi_t
+]
+
+* (A_t): varlık talebi (konut/arsa, finansal araçlar)
+* (\Pi_t): kârlar
+* (\theta): park eğilimi (enflasyon beklentisi, reel getiri arayışı, vergi/taşıma maliyeti vb. ile ilişkili)
+
+Konut finansallaşması literatürü bu park davranışını makro bir eğilim olarak ele alır. ([Taylor & Francis][5])
+
+### 3.3 Varlık enflasyonundan kiraya: YKKE ile zamanlama
+
+Türkiye’de Aşama 2’nin kritik halkası kiradır. TCMB, KFE değerleme raporlarını kullanarak “yeni kiracı” piyasa kirasını daha güncel izlemeyi hedefleyen YKKE’yi oluşturmuş ve 17 Şubat 2026’da yayımlamaya başlamıştır. ([Merkezin Güncesi][1])
+
+---
+
+## 4. Veri ve ölçüm
+
+### 4.1 Para politikası ve fiyatlar
+
+* Politika faizi: TCMB 1 hafta repo serisi. ([Türkiye Cumhuriyeti Merkez Bankası][10])
+* TÜFE: TÜİK aylık bültenleri (Ocak 2026: aylık %4,84; yıllık %30,65). ([veriportali.tuik.gov.tr][11])
+* Fiyatlama davranışı için: TCMB “Monthly Price Developments” raporları (Ocak 2026’da hizmet fiyatları aylık %7,39). ([Türkiye Cumhuriyeti Merkez Bankası][12])
+
+### 4.2 Kredi rejimi / tahsis proxysi
+
+* BDDK Haftalık Bankacılık Sektörü Verileri: toplam krediler, tüketici kredileri/kredi kartları, ticari krediler ve **KOBİ kredileri (bilgi)**. ([BDDK][13])
+
+### 4.3 Varlıklar ve kira
+
+* TCMB KFE ve YKKE serileri (tablolar ve rapor PDF’leri). ([Türkiye Cumhuriyeti Merkez Bankası][14])
+
+### 4.4 Yaşam maliyeti baskısı: hanehalkı harcama kompozisyonu
+
+Hanehalkı tüketim harcaması dağılımı ve gelir dilimlerine göre konut-kira/gıda gibi paylar, “bedel kimde?” sorusunu sayısallaştırmak için kullanılır. (Veri portalı sayfaları JS gerektirdiğinden, erişilebilir PDF duyuru kopyası üzerinden çalışılır.) ([İstanbul Ticaret Borsası][2])
+
+### 4.5 Türkiye’ye özgü zorunlu kontrol: kur geçişkenliği
+
+Kur şoklarının enflasyona geçişi doğrusal olmayabilir; büyük kur şoklarında geçişkenlik artabilir. Bu nedenle tüm modellerde kur kontrolü ve (mümkünse) “büyük kur şoku” rejimi ayrımı yapılır. ([Türkiye Cumhuriyeti Merkez Bankası][15])
+
+---
+
+## 5. Ampirik strateji
+
+### 5.1 Aşama 1 testi: faiz şoku → zaruri kalem fiyatları (cost channel + mark-up)
+
+**Local Projections** (Jordà, 2005) ile:
+
+[
+\Delta \ln(P^{j})*{t+h}
+= \alpha*{j,h} + \beta_{j,h},MPShock_t + \Gamma'*{j,h}X_t + \varepsilon*{j,t+h}
+]
+
+* (P^j): zaruri sepet alt endeksleri (kira/konut, gıda, ulaştırma, eğitim, sağlık vb.)
+* (MPShock_t): para politikası şoku proxysi (reaksiyon fonksiyonu artığı; alternatif: toplantı ayı değişimi)
+* (X_t): kur, aktivite, idari fiyat kuklaları
+
+**H2′ (özgün hipotez):** Zaruri ve piyasa gücü yüksek kalemlerde kısa ufukta (\beta_{j,h}) pozitif olabilir (faiz artışı maliyet kanalından fiyatlamaya girer). Jordà (2005) LP yöntemi, VAR spesifikasyonuna görece daha şeffaf tepkiler verir. ([aeaweb.org][16])
+
+**Rejim testi (yüksek faiz dönemi):**
+[
+... + \delta_{j,h}(MPShock_t \times HighRate_t)
+]
+Zaruri kalemlerde (\delta_{j,h}>0) beklenir.
+
+### 5.2 Aşama 2 testi: kredi/faiz → konut → YKKE → resmi kira
+
+1. (\Delta \ln(HPI)) denklemi (kredi/faiz/kur kontrolü)
+2. (\Delta \ln(NTRENT)) denklemi (HPI gecikmesi + kontroller)
+3. Resmi kira alt endeksine lead-lag: YKKE’nin “öncü sinyal” olup olmadığı
+
+YKKE’nin tasarım motivasyonu bu zamanlama iddiasını doğrudan tartışır; bu yüzden “öncü sinyal” testi, makalenin ölçüm-özgünlüğünün ampirik karşılığıdır. ([Merkezin Güncesi][1])
+
+### 5.3 Dağılımsal çıktı: “zaruri sepet enflasyonu”
+
+Zaruri sepet enflasyonu:
+
+[
+\pi^Z_t=\sum_{j\in Z} w_j \pi^j_t
+]
+
+Ağırlıklar için iki uygulama: (i) sabit ağırlık (metod kırılmayı azaltır), (ii) yıllık güncellenen ağırlık (hissedilen enflasyona yakın). 2026’da TÜFE metodolojisinde değişiklikler yapıldığı için kırılma kontrolü eklenir. ([Merkezin Güncesi][17])
+
+### 5.4 Sağlamlık
+
+* Kur geçişkenliği rejimi (büyük kur şokları) ([Türkiye Cumhuriyeti Merkez Bankası][15])
+* CPI metodoloji değişimi (2026) ([Merkezin Güncesi][17])
+* YKKE kısa örneklem: sonuçlar “sinyal/gösterge” olarak raporlanır.
+
+---
+
+## 6. Türkiye 2023–2026 yüksek faiz bağlamı: motivasyon kutusu (olgu seti)
+
+TCMB politika faizi 2024–2026 döneminde yüksek seviyelerde seyretmiş; Ocak 2026’da %37 düzeyindedir. ([Türkiye Cumhuriyeti Merkez Bankası][10])
+Ocak 2026’da TÜFE aylık %4,84 iken, TCMB’nin Ocak 2026 Fiyat Gelişmeleri raporu hizmet fiyatlarının aylık %7,39 arttığını vurgular. Bu, “talep kanalına rağmen maliyet/fiyatlama davranışı” tartışmasını anlamlı kılar. ([veriportali.tuik.gov.tr][11])
+Aynı dönemde kredi kompozisyonu ve KOBİ payı gibi göstergeler BDDK haftalık tablolarından izlenebilir; bu tablolar, kredinin ağırlıklı olarak ticari kanalda seyrettiğini ve KOBİ kredilerini ayrıca raporladığını gösterir. ([BDDK][13])
+
+---
+
+## 7. Beklenen bulgular (hipotezlerin ölçülebilir imaları)
+
+1. Zaruri kalemlerde kısa vadede “faiz şoku → fiyat” pozitif tepki (cost channel + mark-up) (Ravenna & Walsh, 2006). ([people.ucsc.edu][8])
+2. KFE artışlarının YKKE’ye (piyasa kirasına) daha hızlı yansıması ve YKKE’nin resmi kira alt endeksine önden sinyal vermesi (TCMB, 2026a). ([Merkezin Güncesi][1])
+3. Dağılımsal endekste düşük gelir gruplarının daha yüksek “zaruri sepet enflasyonu” taşıması (hanehalkı harcama kompozisyonu). ([İstanbul Ticaret Borsası][2])
+
+---
+
+## 8. Politik iktisat tartışması: neden tercihsel/sınıfsal?
+
+Bu mekanizma, “piyasanın doğal işleyişi”nden ziyade **tahsis + güç + korunma kapasitesi** üçlüsüyle çalışır:
+
+* Kredinin kimlere aktığı (tahsis) ve fiyatlama gücünün kimlerde yoğunlaştığı, enflasyonun **kimde maliyet, kimde fırsat** olacağını belirler (Stiglitz & Weiss, 1981). ([JSTOR][7])
+* Kalecki’nin (1943) vurguladığı gibi, iktisadi sonuçlar çoğu zaman sınıfsal güç ve politik tercihlerle örülüdür: burada da “kredi rejimi + piyasa gücü + varlık parkı” bileşimi, enflasyonu ve yaşam maliyetini **yeniden bölüşüm** mekanizmasına dönüştürebilir. ([Pluto][9])
+
+---
+
+## 9. Sonuç
+
+Makale, Türkiye’de yüksek faiz dönemlerinde bile enflasyonun (özellikle yaşam maliyeti bileşeninin) neden kalıcı olabildiğini açıklamak için iki aşamalı bir çerçeve kurdu:
+(1) finansman maliyetinin mark-up fiyatlama içinde **maliyet kalemi** olarak fiyatlara taşınması;
+(2) realize edilen kârın varlıklara park edilmesiyle **varlık/kira enflasyonu** üretimi ve bunun regresif toplumsal maliyeti.
+YKKE’nin devreye girmesi, bu zincirin kira halkasını Türkiye’de daha güncel test etme imkânı sunar. ([Merkezin Güncesi][1])
+
+---
+
+## Şekiller
+
+### Şekil 1. İki aşamalı döngü: kredi → (maliyet+faiz) fiyatlaması → kâr → varlık → kira → yaşam maliyeti
+
+Aşağıdaki Mermaid kodu, makaleye “Şekil 1” olarak eklenebilir:
+
+```mermaid
+flowchart TD
+  A[Banka kredisi → mevduat yaratımı] --> B[Satın alma gücü ↑]
+  B --> C{Talep bulundu mu?}
+  C -->|Evet| D[Fiyatlama kuralı:\n(üretim maliyeti + finansman maliyeti)+hedef marj]
+  C -->|Hayır| E[Marj sıkışması / satış kaybı]
+  D --> F[Mal-hizmet enflasyonu ↑]
+  D --> G[Kârın realize edilmesi ↑]
+  G --> H[Park / hedge:\nkonut-arsa + finansal varlıklar]
+  H --> I[Varlık enflasyonu ↑]
+  I --> J[YKKE (yeni kiracı) ↑]
+  J --> K[Kira kanalıyla yaşam maliyeti ↑]
+  K --> L[Orta-alt sınıf reel gelir ↓]
+  L --> B
+```
+
+### Şekil 2. Para politikası sıkılaşmasına beklenen tepkiler (LP): zaruri sepet vs. diğer kalemler
+
+Metin içi kullanım (caption önerisi):
+“Cost channel + mark-up koşullarında, kısa ufukta zaruri kalemlerde fiyat tepkisi pozitif olabilir; daha uzun ufukta talep kanalının baskınlaşmasıyla tepki zayıflayabilir/dönebilir.”
+
+Basit şematik (makale içine çizim olarak geçirilebilir):
+
+```text
+Enflasyon tepkisi
+^
+|   Zaruri sepet:  +  +  (kısa vadede)
+|                  \ \
+|                   \ \__ (orta vadede zayıflama)
+|
+|   Diğer kalemler: 0 / -  (talep kanalı baskın)
++-------------------------------> Ufuk (h)
+     0   1   2   3   6   12
+```
+
+---
+
+## Kaynakça (APA 7 – seçili)
+
+Aalbers, M. B. (2016). *The Financialization of Housing: A Political Economy Approach* (1st ed.). Routledge. ([Taylor & Francis][5])
+
+Hall, R. L., & Hitch, C. J. (1939). Price theory and business behaviour. *Oxford Economic Papers*, os-2(1), 12–45. doi:10.1093/oxepap/os-2.1.12 ([OUP Academic][4])
+
+Jordà, Ò. (2005). Estimation and inference of impulse responses by local projections. *American Economic Review*, 95(1), 161–182. doi:10.1257/0002828053828518 ([aeaweb.org][16])
+
+Kalecki, M. (1943). Political aspects of full employment. *Political Quarterly*. doi:10.1111/j.1467-923X.1943.tb01016.x ([Wiley Online Library][18])
+
+McLeay, M., Radia, A., & Thomas, R. (2014). Money creation in the modern economy. *Bank of England Quarterly Bulletin* (2014 Q1). ([bankofengland.co.uk][6])
+
+Ogünç, F., & Özel, O. (2025). *Büyük kur şokları ve kur geçişkenliğinde doğrusal olmayan etkiler* (TCMB Working Paper No. 2505). ([Türkiye Cumhuriyeti Merkez Bankası][15])
+
+Ravenna, F., & Walsh, C. E. (2006). Optimal monetary policy with the cost channel. *Journal of Monetary Economics*, 53(2), 199–216. ([people.ucsc.edu][8])
+
+Stiglitz, J. E., & Weiss, A. (1981). Credit rationing in markets with imperfect information. *American Economic Review*, 71(3), 393–410. ([JSTOR][7])
+
+Türkiye Cumhuriyet Merkez Bankası. (2026a). *Kiralar için yeni bir gösterge: Yeni kiracı kira endeksi (YKKE).* ([Merkezin Güncesi][1])
+
+Türkiye Cumhuriyet Merkez Bankası. (2026b). *January 2026 Price Developments.* ([Türkiye Cumhuriyeti Merkez Bankası][12])
+
+Türkiye Cumhuriyet Merkez Bankası. (2024–2026). *1 hafta repo (politika faizi) serisi.* ([Türkiye Cumhuriyeti Merkez Bankası][10])
+
+Türkiye İstatistik Kurumu. (2026). *Consumer Price Index – January 2026 (Press Release).* ([veriportali.tuik.gov.tr][11])
+
+(Veri duyurusu kopyası) Hanehalkı Tüketim Harcaması, 2024 (gelir dilimleri ve kalem payları). ([İstanbul Ticaret Borsası][2])
+
+---
+
+İstersen bir sonraki adımda, bunu **dergi formatına göre** (ör. 8.000 kelime sınırı, “Literature review” uzunluğu, “Data” bölümü kısa/uzun) **kısaltılmış ya da genişletilmiş** iki sürüm halinde düzenleyebilirim; ayrıca “zaruri sepet”i TÜİK alt kalem kodlarıyla **tam tanıma** (replikasyon ekine) bağlayacak bir **Ek C (Değişken Tanımları ve Kodlama)** da yazarım.
+
+[1]: https://tcmbblog.org/wps/wcm/connect/blog/tr/main%2Bmenu/analizler/kiralar%2Bicin%2Byeni%2Bbir%2Bgosterge%2Byeni%2Bkiraci%2Bkira%2Bendeksi?utm_source=chatgpt.com "Kiralar İçin Yeni Bir Gösterge: Yeni Kiracı Kira Endeksi"
+[2]: https://www.istib.org.tr/resim/siteici/files/715_Hanehalk%C4%B1%20T%C3%BCketim%20Harcamas%C4%B1%2C%202024%20.pdf?utm_source=chatgpt.com "Hanehalkı Tüketim Harcaması, 2024 (02.06.2025)"
+[3]: https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy?utm_source=chatgpt.com "Money creation in the modern economy"
+[4]: https://academic.oup.com/oep/article-abstract/os-2/1/12/3105586?utm_source=chatgpt.com "PRICE THEORY AND BUSINESS BEHAVIOUR | Oxford"
+[5]: https://www.taylorfrancis.com/books/edit/10.4324/9781315668666/financialization-housing-manuel-aalbers?utm_source=chatgpt.com "The Financialization of Housing | A political economy approach"
+[6]: https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy?utm_source=chatgpt.com "Money creation in the modern economy"
+[7]: https://www.jstor.org/stable/1802787?utm_source=chatgpt.com "Credit Rationing in Markets with Imperfect Information"
+[8]: https://people.ucsc.edu/~walshc/MyPapers/CostChannelRavennaWalsh_JME.pdf?utm_source=chatgpt.com "Optimal monetary policy with the cost channel"
+[9]: https://pluto.huji.ac.il/~mshalev/ppe/Kalecki_FullEmployment.pdf?utm_source=chatgpt.com "POLITICAL ASPECTS OF FULL EMPLOYMENT'"
+[10]: https://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb%2Btr/main%2Bmenu/temel%2Bfaaliyetler/para%2Bpolitikasi/merkez%2Bbankasi%2Bfaiz%2Boranlari/1%2Bhafta%2Brepo?utm_source=chatgpt.com "1 Hafta Repo"
+[11]: https://veriportali.tuik.gov.tr/en/press/58293?utm_source=chatgpt.com "Consumer Price Index - January 2026 - Data Portal"
+[12]: https://www.tcmb.gov.tr/wps/wcm/connect/54c37622-746d-4afe-aa28-536b786ca125/mpricejanuary26.pdf?MOD=AJPERES&utm_source=chatgpt.com "JANUARY PRICE DEVELOPMENTS"
+[13]: https://www.bddk.org.tr/bultenhaftalik?utm_source=chatgpt.com "Haftalık Bankacılık Sektörü Verileri (Temel Gösterim)"
+[14]: https://tcmb.gov.tr/wps/wcm/connect/04afb963-f64c-45f1-b982-178d0e836d04/KFE-Tablo.pdf?CACHEID=ROOTWORKSPACE-04afb963-f64c-45f1-b982-178d0e836d04-mEB-PDB&MOD=AJPERES&utm_source=chatgpt.com "Konut Fiyat Endeksi (KFE)"
+[15]: https://www.tcmb.gov.tr/wps/wcm/connect/e2056935-cc6f-48fb-925d-9784016ecae0/wp2505.pdf?CACHEID=ROOTWORKSPACE-e2056935-cc6f-48fb-925d-9784016ecae0-pnS6CAv&MOD=AJPERES&utm_source=chatgpt.com "Büyük Kur Şokları ve Kur Geçişkenliğinde Doğrusal ..."
+[16]: https://www.aeaweb.org/articles?id=10.1257%2F0002828053828518&utm_source=chatgpt.com "Estimation and Inference of Impulse Responses by Local ..."
+[17]: https://tcmbblog.org/wps/wcm/connect/blog/en/main%2Bmenu/analyses/revisions%2Bto%2Bthe%2B2026%2Bconsumer%2Bprice%2Bindex%2Band%2Btheir%2Bimplications?utm_source=chatgpt.com "Revisions to the 2026 Consumer Price Index and Their ..."
+[18]: https://onlinelibrary.wiley.com/doi/10.1111/j.1467-923X.1943.tb01016.x?utm_source=chatgpt.com "POLITICAL ASPECTS OF FULL EMPLOYMENT1 - Kalecki"
