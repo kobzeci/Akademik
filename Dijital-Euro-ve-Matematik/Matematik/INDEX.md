@@ -11,4 +11,4 @@ Bu klasör, günlük **Dijital Euro ve İktisadi Matematik** derslerinin kalıc�
 
 ## Dersler
 
-_Yeni dersler buraya eklenecek._
+- 2026-10-01 — Gün 20 — [Kapasite Kısıtı ve Enflasyon](./2026-10-01-gun-20-kapasite-kisiti-ve-enflasyon.md)
